@@ -1,0 +1,482 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="G:/IdeaProjects/FindAPath/src/com/findapath/input.txt" timestamp="1522122551872">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/LongestSubstringTest.java" timestamp="1530834503477">
+        <mark key="[" line="15" column="79" />
+        <mark key="]" line="15" column="80" />
+        <mark key="^" line="15" column="63" />
+        <mark key="." line="15" column="80" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/Trie.java" timestamp="1496288545362">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="20" column="67" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/SortColorsTest.java" timestamp="1529979978178">
+        <mark key="'" line="16" column="53" />
+        <mark key="[" line="23" column="27" />
+        <mark key="]" line="23" column="28" />
+        <mark key="^" line="26" column="47" />
+        <mark key="." line="23" column="28" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/hard/IsMatch.java" timestamp="1530028150502">
+        <mark key="[" line="39" column="54" />
+        <mark key="]" line="39" column="60" />
+        <mark key="^" line="39" column="60" />
+        <mark key="." line="39" column="60" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/amazon/CellComplete.java" timestamp="1530828790826">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="36" column="46" />
+        <mark key="^" line="36" column="46" />
+        <mark key="." line="36" column="46" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/easy/MergeSortedArrays.java" timestamp="1530173515911">
+        <mark key="[" line="2" column="32" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/NumberOfUniqueDigits.java" timestamp="1529891534062">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/easy/RomanToInteger.java" timestamp="1529871363190">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="16" />
+        <mark key="^" line="27" column="23" />
+        <mark key="." line="29" column="16" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/StringToIntegerTest.java" timestamp="1529882111024">
+        <mark key="[" line="19" column="65" />
+        <mark key="]" line="19" column="65" />
+        <mark key="^" line="19" column="65" />
+        <mark key="." line="19" column="65" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/ListNode.java" timestamp="1529974648763">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/Permutations/src/Permutations.java" timestamp="1491791541286">
+        <mark key="[" line="35" column="51" />
+        <mark key="]" line="46" column="35" />
+        <mark key="^" line="46" column="35" />
+        <mark key="." line="46" column="35" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/ReachNumberTest.java" timestamp="1529978289839">
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="14" column="59" />
+        <mark key="^" line="13" column="58" />
+        <mark key="." line="14" column="59" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/IsMatchTest.java" timestamp="1530028229809">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="65" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/Numbers.java" timestamp="1530857020893">
+        <mark key="[" line="29" column="41" />
+        <mark key="]" line="29" column="41" />
+        <mark key="^" line="19" column="41" />
+        <mark key="." line="29" column="41" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/LongestSubstring.java" timestamp="1529869800938">
+        <mark key="[" line="26" column="55" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="25" column="35" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/sum/FourSumCount.java" timestamp="1495776620342">
+        <mark key="[" line="26" column="39" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="26" column="38" />
+      </file>
+      <file name="G:/IdeaProjects/FindAPath/src/com/findapath/Grid.java" timestamp="1522206505759">
+        <mark key="'" line="11" column="39" />
+        <mark key="[" line="25" column="97" />
+        <mark key="]" line="25" column="100" />
+        <mark key="^" line="25" column="100" />
+        <mark key="." line="25" column="100" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/arrays/MaxProduct.java" timestamp="1498024279897">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="^" line="7" column="42" />
+        <mark key="." line="7" column="23" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/IPAddress.java" timestamp="1530834962591">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="11" column="42" />
+        <mark key="^" line="11" column="42" />
+        <mark key="." line="11" column="42" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/interviews/PrintBoundariesOfTree.java" timestamp="1530318890477">
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="7" column="5" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/arrays/RemoveElements.java" timestamp="1497632815300">
+        <mark key="[" line="7" column="60" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="35" column="50" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/MinSum.java" timestamp="1530857447773">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/test/com/leetcode/trees/trie/test/TrieTest.java" timestamp="1502762347660">
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="36" column="39" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/easy/PascalsTriangle.java" timestamp="1530174043276">
+        <mark key="[" line="2" column="30" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/arrays/StringToNumber.java" timestamp="1497239537077">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="20" column="57" />
+        <mark key="^" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+      </file>
+      <file name="G:/IdeaProjects/FindAPath/src/com/findapath/Point.java" timestamp="1522206535725">
+        <mark key="[" line="58" column="15" />
+        <mark key="]" line="58" column="15" />
+        <mark key="^" line="53" column="17" />
+        <mark key="." line="58" column="15" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/NumberOfUniqueDigitsTest.java" timestamp="1529888450100">
+        <mark key="[" line="14" column="84" />
+        <mark key="]" line="14" column="85" />
+        <mark key="^" line="16" column="84" />
+        <mark key="." line="14" column="85" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/arrays/ListNode.java" timestamp="1497593089837">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/easy/RotateArray.java" timestamp="1530167478614">
+        <mark key="[" line="2" column="26" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/AddTwoNumbers.java" timestamp="1496981734964">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="33" column="4" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/arrays/MinMoves.java" timestamp="1496979280457">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="11" />
+        <mark key="^" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+      </file>
+      <file name="G:/IdeaProjects/FindAPath/src/com/findapath/FindPath.java" timestamp="1522210637506">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="65" column="53" />
+        <mark key="." line="62" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/FindAPath/src/com/findapath/FindPathParallel.java" timestamp="1522251432990">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="68" column="55" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/ReverseKGroupTest.java" timestamp="1530242871597">
+        <mark key="[" line="21" column="76" />
+        <mark key="]" line="21" column="77" />
+        <mark key="^" line="20" column="27" />
+        <mark key="." line="21" column="77" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/MergeKLists.java" timestamp="1529982859023">
+        <mark key="[" line="2" column="26" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/easy/RomanToIntegerTest.java" timestamp="1529871229908">
+        <mark key="[" line="17" column="68" />
+        <mark key="]" line="17" column="71" />
+        <mark key="^" line="17" column="71" />
+        <mark key="." line="17" column="71" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1522117461466">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/sum/TwoSum.java" timestamp="1495687230532">
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="21" column="38" />
+        <mark key="." line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/UniquePaths.java" timestamp="1530769150160">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/arrays/SubSequence.java" timestamp="1496904618756">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/easy/StringInStringTest.java" timestamp="1529876397692">
+        <mark key="[" line="13" column="63" />
+        <mark key="]" line="13" column="64" />
+        <mark key="^" line="13" column="47" />
+        <mark key="." line="13" column="64" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/IsNumberTest.java" timestamp="1530240846304">
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="30" column="38" />
+        <mark key="^" line="30" column="51" />
+        <mark key="." line="30" column="38" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/hard/ReverseKGroup.java" timestamp="1530255859573">
+        <mark key="[" line="47" column="34" />
+        <mark key="]" line="49" column="36" />
+        <mark key="^" line="49" column="36" />
+        <mark key="." line="49" column="36" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/IPAddressTest.java" timestamp="1530835040204">
+        <mark key="[" line="17" column="94" />
+        <mark key="]" line="17" column="97" />
+        <mark key="^" line="17" column="97" />
+        <mark key="." line="17" column="97" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/sortlist/ListNode.java" timestamp="1529974462763">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/easy/MoveZeros.java" timestamp="1530172372246">
+        <mark key="[" line="2" column="24" />
+      </file>
+      <file name="G:/IdeaProjects/FindAPath/src/com/findapath/Path.java" timestamp="1522126317173">
+        <mark key="[" line="45" column="47" />
+        <mark key="]" line="45" column="47" />
+        <mark key="." line="45" column="47" />
+        <mark key="^" line="45" column="113" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/RightSideView.java" timestamp="1496900137089">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/easy/StringInString.java" timestamp="1529876459664">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/hard/IsNumber.java" timestamp="1529884197136">
+        <mark key="[" line="10" column="105" />
+        <mark key="]" line="10" column="108" />
+        <mark key="." line="10" column="108" />
+        <mark key="^" line="10" column="108" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/puzzles/permuations/Permutations.java" timestamp="1502726047750">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="17" column="78" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/trie/Test.java" timestamp="1496288762802">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/Recon.java" timestamp="1500405526944">
+        <mark key="[" line="87" column="23" />
+        <mark key="]" line="183" column="0" />
+        <mark key="^" line="15" column="20" />
+        <mark key="." line="183" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/FindAPath/.gitignore" timestamp="1522166580255">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/IntellijTest/src/Test.java" timestamp="1465684026471">
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="6" column="42" />
+        <mark key="^" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/StringToInteger.java" timestamp="1529881716843">
+        <mark key="'" line="12" column="94" />
+        <mark key="[" line="23" column="55" />
+        <mark key="]" line="23" column="55" />
+        <mark key="." line="23" column="55" />
+        <mark key="^" line="23" column="55" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/SortColors.java" timestamp="1529980672544">
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/sum/UglyNumber.java" timestamp="1495821125197">
+        <mark key="[" line="64" column="16" />
+        <mark key="]" line="64" column="16" />
+        <mark key="." line="64" column="16" />
+        <mark key="^" line="64" column="15" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/ReachNumber.java" timestamp="1529886327116">
+        <mark key="'" line="12" column="27" />
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="28" />
+        <mark key="^" line="12" column="28" />
+        <mark key="." line="12" column="28" />
+      </file>
+      <file name="/fragment.java" timestamp="1529880349448">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+      </file>
+      <file name="G:/IdeaProjects/Permutations/src/MainClass.java" timestamp="1491791577358">
+        <mark key="[" line="8" column="56" />
+        <mark key="]" line="11" column="63" />
+        <mark key="^" line="11" column="63" />
+        <mark key="." line="11" column="63" />
+      </file>
+      <file name="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/trie/WordSearach.java" timestamp="1496522882960">
+        <mark key="[" line="30" column="72" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="31" column="23" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="32" column="21" filename="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/sum/FourSum.java" />
+      <jump line="46" column="25" filename="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/sum/ThreeSum.java" />
+      <jump line="35" column="24" filename="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/sum/FourSumCount.java" />
+      <jump line="73" column="25" filename="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/trie/Trie.java" />
+      <jump line="0" column="0" filename="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/trie/Trie.java" />
+      <jump line="21" column="43" filename="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/trie/WordSearch.java" />
+      <jump line="86" column="32" filename="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/trie/WordSearch.java" />
+      <jump line="1" column="0" filename="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/trie/WordSearch.java" />
+      <jump line="119" column="37" filename="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/trie/WordSearch.java" />
+      <jump line="55" column="33" filename="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/trie/WordSearch.java" />
+      <jump line="0" column="0" filename="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/trie/WordSearch.java" />
+      <jump line="206" column="0" filename="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/trie/WordSearch.java" />
+      <jump line="106" column="36" filename="G:/IdeaProjects/Coding Puzzles/src/com/leetcode/trees/trie/WordSearch.java" />
+      <jump line="11" column="39" filename="G:/IdeaProjects/FindAPath/src/com/findapath/Grid.java" />
+      <jump line="76" column="40" filename="G:/IdeaProjects/FindAPath/src/com/findapath/FindPath.java" />
+      <jump line="10" column="94" filename="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/StringToInteger.java" />
+      <jump line="12" column="27" filename="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/ReachNumber.java" />
+      <jump line="13" column="53" filename="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/SortColorsTest.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWF4ID4gMCA/IG1heCA6IC0xKWRkOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>Integer</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGlwQWRkcmVzcy52YWxpZElQQWRkcmVzcygiMjAwMTowZGI4Ojg1YTM6MDowOjhBMkU6MDM3MDo3MzM0OiIpLCBpcyhlcXVhbFRvKCJOZWl0aGVyIikpKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWF4ID4gMCA/IG1heCA6IC0xKWRkOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbnMuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpZmYgPiAwKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY291bnQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGludCBwYXRocyA9IDA7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoKGxpbmUgPSBpbi5yZWFkTGluZSgpKSAhPSBudWxsKSB7Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
