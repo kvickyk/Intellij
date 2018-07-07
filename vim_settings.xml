@@ -9,11 +9,26 @@
         <mark key="^" line="11" column="62" />
         <mark key="." line="11" column="41" />
       </file>
-      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/UniqueBinaryTrees.java" timestamp="1530992222991">
-        <mark key="[" line="59" column="18" />
-        <mark key="]" line="35" column="36" />
-        <mark key="." line="35" column="36" />
-        <mark key="^" line="35" column="36" />
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/TreeNode.java" timestamp="1530997927204">
+        <mark key="[" line="2" column="23" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/UniqueBinaryTrees.java" timestamp="1530997958839">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1530997837856">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/TreeNode.java" timestamp="1530998128098">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/TreeHelper.java" timestamp="1530997941041" />
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/TreeHelper.java" timestamp="1530997843820">
+        <mark key="[" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testapp/src/main/java/com/test/Application.java" timestamp="1530893172197">
         <mark key="[" line="3" column="43" />
@@ -25,16 +40,31 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>List</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGRkCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oLnRvU3RyaW5nKCkpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxUcmVlTm9kZT4gZ2VuZXJhdGVDb21iaW5hdGlvbnMoaW50IGksIExpc3Q8VHJlZU5vZGU+IGxlZnQsIExpc3Q8VHJlZU5vZGU+IHJpZ2h0KSB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>List</text>
       </register>
     </registers>
     <search>
