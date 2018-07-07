@@ -12,11 +12,11 @@
       <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/TreeNode.java" timestamp="1530997927204">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/Triangle.java" timestamp="1531000938746">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="5" column="33" />
-        <mark key="^" line="5" column="33" />
-        <mark key="." line="5" column="33" />
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/Triangle.java" timestamp="1531002962864">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="48" />
+        <mark key="^" line="9" column="47" />
+        <mark key="." line="10" column="48" />
       </file>
       <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/UniqueBinaryTrees.java" timestamp="1530997958839">
         <mark key="[" line="68" column="0" />
@@ -55,34 +55,37 @@
         <text encoding="base64">ICAgICAgICBpbnB1dC5hZGQoQXJyYXlzLmFzTGlzdChsMSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dC5hZGQoQXJyYXlzLmFzTGlzdChsMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWluKHQsIDAsIDApOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>l3</text>
+        <text>) - 1</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG1pbihMaXN0PExpc3Q8SW50ZWdlcj4+IHQsIGludCBsZXZlbCwgaW50IGNoaWxkSW5kZXgpIHsKICAgICAgICBpZiAobGV2ZWwrMSA8IHQuc2l6ZSgpKSB7CiAgICAgICAgICAgIGludCBjZW50ZXJTdW0gPSBtaW4odCwgbGV2ZWwrMSwgY2hpbGRJbmRleCk7CiAgICAgICAgICAgIGludCByaWdodFN1bSA9IGNoaWxkSW5kZXggPCB0LmdldChsZXZlbCkuc2l6ZSgpID8gbWluKHQsIGxldmVsKzEsIGNoaWxkSW5kZXggKyAxKSA6IEludGVnZXIuTUFYX1ZBTFVFOwoKICAgICAgICAgICAgcmV0dXJuIHQuZ2V0KGxldmVsKS5nZXQoY2hpbGRJbmRleCkgKyBNYXRoLm1pbihjZW50ZXJTdW0sIHJpZ2h0U3VtKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiB0LmdldChsZXZlbCkuZ2V0KGNoaWxkSW5kZXgpOwoKICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpbnQgbGVmdFN1bSA9IGNoaWxkSW5kZXggPiAwID8gbWluKHQsIGxldmVsKzEsIGNoaWxkSW5kZXggLSAxKSA6IEludGVnZXIuTUFYX1ZBTFVFOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dC5hZGQoQXJyYXlzLmFzTGlzdChsMSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxUcmVlTm9kZT4gZ2VuZXJhdGVDb21iaW5hdGlvbnMoaW50IGksIExpc3Q8VHJlZU5vZGU+IGxlZnQsIExpc3Q8VHJlZU5vZGU+IHJpZ2h0KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l3</text>
+        <text>) - 1</text>
       </register>
     </registers>
     <search>
