@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/UniqueBinaryTreesTest.java" timestamp="1530992134884">
+        <mark key="[" line="11" column="59" />
+        <mark key="]" line="11" column="62" />
+        <mark key="^" line="11" column="62" />
+        <mark key="." line="11" column="62" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/UniqueBinaryTrees.java" timestamp="1530992222991">
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="35" column="36" />
+        <mark key="." line="35" column="36" />
+        <mark key="^" line="35" column="36" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/testapp/src/main/java/com/test/Application.java" timestamp="1530893172197">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="7" column="1" />
@@ -11,7 +23,20 @@
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oLnRvU3RyaW5nKCkpOwo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>.</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxUcmVlTm9kZT4gZ2VuZXJhdGVDb21iaW5hdGlvbnMoaW50IGksIExpc3Q8VHJlZU5vZGU+IGxlZnQsIExpc3Q8VHJlZU5vZGU+IHJpZ2h0KSB7Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>.</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -22,6 +47,22 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
