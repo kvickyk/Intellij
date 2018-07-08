@@ -48,7 +48,7 @@
         <mark key="^" line="20" column="55" />
         <mark key="." line="20" column="55" />
       </file>
-      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/LongestIncreasingSubsequenceTest.java" timestamp="1531016854513">
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/LongestIncreasingSubsequenceTest.java" timestamp="1531090819453">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="24" />
@@ -83,46 +83,61 @@
         <mark key="." line="22" column="15" />
       </file>
       <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/IsMatchTest.java" timestamp="1531003959918" />
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/soj/PrimeGenerator.java" timestamp="1531091412478">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="55" column="24" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/soj/PrimeGeneratorTest.java" timestamp="1531091345392">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+      </file>
+      <file name="/fragment.java" timestamp="1531091184490">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="44" filename="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/MaxProfitsTest.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBpbnB1dDEgPSB7MTAsIDksIDIsIDUsIDMsIDcsIDEwMSwgMTh9OwogICAgICAgIGFzc2VydFRoYXQobG9uZ2VzdEluY3JlYXNpbmdTdWJzZXF1ZW5jZS5sZW5ndGhPZkxJUyhpbnB1dDEpLCBpcyhlcXVhbFRvKDQpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcmltZUdlbmVyYXRvci5wcmludFByaW1lKDEsIDEwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaW1lcy5hZGQoM0wpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>10, 9, 2, 5, 3, 7, 101, 18</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHByaW1lcy5hZGQoM0wpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGltZXIudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGxvbmdlc3RJbmNyZWFzaW5nU3Vic2VxdWVuY2UubGVuZ3RoT2ZMSVMoaW5wdXQpLCBpcyhlcXVhbFRvKDIpKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzKGVxdWFsVG8odHJ1ZSkpKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy4qOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NiY2FhYWJiYWFiYWFhYmJjYmNiYWJhY2JhY2JhYmFiYWFjYWFhYWFjYmFiYWFiYmNiY2NiYmFiYmNjYWFhYWFiYWFiY2FiYmNhYWJhYWFiYmNiY2JiYmNhY2FiYWFhY2NjYmJjYmJhYWNiIiksCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLnV0aWwuKjsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJjYWJhYWJjYmFiY2JhYWFhY2FiYWJjY2JiY2NhYWFiYWFjYmJhYWFiY2NhY2FiYWFjY2JiY2JjYiIsCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIGNsYXNzIE1haW4KICAgIHs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGludGVybGVhdmVTdHJpbmcuaXNJbnRlcmxlYXZlKCJhY2NiYWFiYWFhYmJjYmFhY2JhYmFiYWNhYWJhYmJjYmFiYWFiYWJjYWFiYmJiYmNhY2JhYSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGltZXIudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGludGVybGVhdmVTdHJpbmcuaXNJbnRlcmxlYXZlKCJhIiwgImIiLCAiYSIpLCBpcyhlcXVhbFRvKGZhbHNlKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzKGVxdWFsVG8odHJ1ZSkpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NiY2FhYWJiYWFiYWFhYmJjYmNiYWJhY2JhY2JhYmFiYWFjYWFhYWFjYmFiYWFiYmNiY2NiYmFiYmNjYWFhYWFiYWFiY2FiYmNhYWJhYWFiYmNiY2JiYmNhY2FiYWFhY2NjYmJjYmJhYWNiIiksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>10, 9, 2, 5, 3, 7, 101, 18</text>
+        <text>1h</text>
       </register>
     </registers>
     <search>
