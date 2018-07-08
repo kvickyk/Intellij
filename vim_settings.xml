@@ -47,10 +47,23 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/hard/MaxProfits.java" timestamp="1531010221886">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+      </file>
       <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/TreeNode.java" timestamp="1530997927204">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/InterleaveStringTest.java" timestamp="1531004700484">
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/MaxProfitsTest.java" timestamp="1531010129307">
+        <mark key="'" line="18" column="44" />
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/InterleaveStringTest.java" timestamp="1531009989279">
         <mark key="[" line="21" column="130" />
         <mark key="]" line="22" column="15" />
         <mark key="^" line="22" column="15" />
@@ -58,43 +71,45 @@
       </file>
       <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/IsMatchTest.java" timestamp="1531003959918" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="18" column="44" filename="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/MaxProfitsTest.java" />
+    </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHQubGVuZ3RoKCkgPT0gMCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KG1heFByb2ZpdHMubWF4UHJvZml0KGlucHV0KSwgaXMoZXF1YWxUbyg2KSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGltZXIudG9TdHJpbmcoKSk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHQubGVuZ3RoKCkgPT0gMCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>prices[i] + prices[i-1];</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaXNJbnRlcmxlYXZlKHMxLCBzMiwgczMsIDAsIDAsIDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzKGVxdWFsVG8odHJ1ZSkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NiY2FhYWJiYWFiYWFhYmJjYmNiYWJhY2JhY2JhYmFiYWFjYWFhYWFjYmFiYWFiYmNiY2NiYmFiYmNjYWFhYWFiYWFiY2FiYmNhYWJhYWFiYmNiY2JiYmNhY2FiYWFhY2NjYmJjYmJhYWNiIiksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzSW50ZXJsZWF2ZShTdHJpbmcgczEsIFN0cmluZyBzMiwgU3RyaW5nIHMzLCBpbnQgaW5kZXgxLCBpbnQgaW5kZXgyLCBpbnQgaW5kZXgzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJjYWJhYWJjYmFiY2JhYWFhY2FiYWJjY2JiY2NhYWFiYWFjYmJhYWFiY2NhY2FiYWFjY2JiY2JjYiIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiYWNjYmNhYWFiYmFhYmFhYWJiY2JjYmFiYWNiYWNiYWJhYmFhY2FhYWFhY2JhYmFhYmJjYmNjYmJhYmJjY2FhYWFhYmFhYmNhYmJjYWFiYWFhYmJjYmNiYmJjYWNhYmFhYWNjY2JiY2JiYWFjYiIK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGludGVybGVhdmVTdHJpbmcuaXNJbnRlcmxlYXZlKCJhY2NiYWFiYWFhYmJjYmFhY2JhYmFiYWNhYWJhYmJjYmFiYWFiYWJjYWFiYmJiYmNhY2JhYSIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiY2FiYWFiY2JhYmNiYWFhYWNhYmFiY2NiYmNjYWFhYmFhY2JiYWFhYmNjYWNhYmFhY2NiYmNiY2IiCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGltZXIudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ImFjY2JhYWJhYWFiYmNiYWFjYmFiYWJhY2FhYmFiYmNiYWJhYWJhYmNhYWJiYmJiY2FjYmFhIgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGludGVybGVhdmVTdHJpbmcuaXNJbnRlcmxlYXZlKCJhIiwgImIiLCAiYSIpLCBpcyhlcXVhbFRvKGZhbHNlKSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdG9wd2F0Y2ggdGltZXIgPSBTdG9wd2F0Y2guY3JlYXRlU3RhcnRlZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">ZGRkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>s3</text>
+        <text>prices[i] + prices[i-1];</text>
       </register>
     </registers>
     <search>
