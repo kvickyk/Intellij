@@ -23,6 +23,13 @@
       <file name="/a.dummy" timestamp="1530997837856">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/LongestSubstringTest.java" timestamp="1531016626279">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="90" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/LongestIncreasingSubsequence.java" timestamp="1531016847128">
+        <mark key="[" line="2" column="43" />
+      </file>
       <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/TreeNode.java" timestamp="1530998128098">
         <mark key="[" line="23" column="28" />
         <mark key="]" line="23" column="15" />
@@ -41,13 +48,19 @@
         <mark key="^" line="20" column="55" />
         <mark key="." line="20" column="55" />
       </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/LongestIncreasingSubsequenceTest.java" timestamp="1531016854513">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="14" column="34" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/testapp/src/main/java/com/test/Application.java" timestamp="1530893172197">
         <mark key="[" line="3" column="43" />
         <mark key="]" line="7" column="1" />
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
-      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/hard/MaxProfits.java" timestamp="1531010221886">
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/hard/MaxProfits.java" timestamp="1531016561307">
         <mark key="[" line="18" column="44" />
         <mark key="]" line="18" column="44" />
         <mark key="." line="18" column="44" />
@@ -76,40 +89,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KG1heFByb2ZpdHMubWF4UHJvZml0KGlucHV0KSwgaXMoZXF1YWxUbyg2KSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBpbnB1dDEgPSB7MTAsIDksIDIsIDUsIDMsIDcsIDEwMSwgMTh9OwogICAgICAgIGFzc2VydFRoYXQobG9uZ2VzdEluY3JlYXNpbmdTdWJzZXF1ZW5jZS5sZW5ndGhPZkxJUyhpbnB1dDEpLCBpcyhlcXVhbFRvKDQpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGltZXIudG9TdHJpbmcoKSk7Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>prices[i] + prices[i-1];</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzKGVxdWFsVG8odHJ1ZSkpKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NiY2FhYWJiYWFiYWFhYmJjYmNiYWJhY2JhY2JhYmFiYWFjYWFhYWFjYmFiYWFiYmNiY2NiYmFiYmNjYWFhYWFiYWFiY2FiYmNhYWJhYWFiYmNiY2JiYmNhY2FiYWFhY2NjYmJjYmJhYWNiIiksCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJjYWJhYWJjYmFiY2JhYWFhY2FiYWJjY2JiY2NhYWFiYWFjYmJhYWFiY2NhY2FiYWFjY2JiY2JjYiIsCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGludGVybGVhdmVTdHJpbmcuaXNJbnRlcmxlYXZlKCJhY2NiYWFiYWFhYmJjYmFhY2JhYmFiYWNhYWJhYmJjYmFiYWFiYWJjYWFiYmJiYmNhY2JhYSIsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGltZXIudG9TdHJpbmcoKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGludGVybGVhdmVTdHJpbmcuaXNJbnRlcmxlYXZlKCJhIiwgImIiLCAiYSIpLCBpcyhlcXVhbFRvKGZhbHNlKSkpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="4">
+        <text>10, 9, 2, 5, 3, 7, 101, 18</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGltZXIudG9TdHJpbmcoKSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzKGVxdWFsVG8odHJ1ZSkpKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NiY2FhYWJiYWFiYWFhYmJjYmNiYWJhY2JhY2JhYmFiYWFjYWFhYWFjYmFiYWFiYmNiY2NiYmFiYmNjYWFhYWFiYWFiY2FiYmNhYWJhYWFiYmNiY2JiYmNhY2FiYWFhY2NjYmJjYmJhYWNiIiksCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJjYWJhYWJjYmFiY2JhYWFhY2FiYWJjY2JiY2NhYWFiYWFjYmJhYWFiY2NhY2FiYWFjY2JiY2JjYiIsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGludGVybGVhdmVTdHJpbmcuaXNJbnRlcmxlYXZlKCJhY2NiYWFiYWFhYmJjYmFhY2JhYmFiYWNhYWJhYmJjYmFiYWFiYWJjYWFiYmJiYmNhY2JhYSIsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGltZXIudG9TdHJpbmcoKSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGludGVybGVhdmVTdHJpbmcuaXNJbnRlcmxlYXZlKCJhIiwgImIiLCAiYSIpLCBpcyhlcXVhbFRvKGZhbHNlKSkpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>prices[i] + prices[i-1];</text>
+        <text>10, 9, 2, 5, 3, 7, 101, 18</text>
       </register>
     </registers>
     <search>
@@ -137,6 +150,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
