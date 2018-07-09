@@ -66,6 +66,12 @@
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
       </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/amazon/GcdTest.java" timestamp="1531101435053">
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="12" column="54" />
+        <mark key="^" line="12" column="54" />
+        <mark key="." line="12" column="54" />
+      </file>
       <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/TreeNode.java" timestamp="1530997927204">
         <mark key="[" line="2" column="23" />
       </file>
@@ -75,6 +81,9 @@
         <mark key="]" line="16" column="12" />
         <mark key="^" line="16" column="12" />
         <mark key="." line="16" column="12" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/amazon/Gcd.java" timestamp="1531101309938">
+        <mark key="[" line="2" column="18" />
       </file>
       <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/InterleaveStringTest.java" timestamp="1531009989279">
         <mark key="[" line="21" column="130" />
@@ -104,13 +113,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQcmltZUdlbmVyYXRvci5wcmludFByaW1lKDEsIDEwKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBpbnB1dCA9IHsyLDQsNiw4LDEwfTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIHByaW1lcy5hZGQoM0wpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW1lcy5hZGQoM0wpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>10</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGxvbmdlc3RJbmNyZWFzaW5nU3Vic2VxdWVuY2UubGVuZ3RoT2ZMSVMoaW5wdXQpLCBpcyhlcXVhbFRvKDIpKSk7Cg==</text>
@@ -137,7 +146,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICJhY2NiY2FhYWJiYWFiYWFhYmJjYmNiYWJhY2JhY2JhYmFiYWFjYWFhYWFjYmFiYWFiYmNiY2NiYmFiYmNjYWFhYWFiYWFiY2FiYmNhYWJhYWFiYmNiY2JiYmNhY2FiYWFhY2NjYmJjYmJhYWNiIiksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1h</text>
+        <text>10</text>
       </register>
     </registers>
     <search>
