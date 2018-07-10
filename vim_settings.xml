@@ -3,62 +3,162 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/testapp/src/main/java/com/test/BasicController.java" timestamp="1531243990663">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="26" />
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/UniqueBinaryTrees.java" timestamp="1530997958839">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testapp/build.gradle" timestamp="1530893919748">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="19" />
-        <mark key="^" line="9" column="19" />
-        <mark key="." line="9" column="19" />
+      <file name="/a.dummy" timestamp="1530997837856">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testapp/src/main/java/com/test/Application.java" timestamp="1531243824561">
-        <mark key="[" line="4" column="65" />
-        <mark key="]" line="8" column="17" />
-        <mark key="." line="8" column="17" />
-        <mark key="^" line="8" column="17" />
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/LongestSubstringTest.java" timestamp="1531016626279">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="90" />
       </file>
-      <file name="/fragment.java" timestamp="1531244097800">
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/LongestIncreasingSubsequence.java" timestamp="1531017979440">
+        <mark key="[" line="2" column="43" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/TreeNode.java" timestamp="1530998128098">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/TriangleTest.java" timestamp="1531001110302">
+        <mark key="[" line="20" column="55" />
+        <mark key="]" line="20" column="55" />
+        <mark key="^" line="20" column="55" />
+        <mark key="." line="20" column="55" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/LongestIncreasingSubsequenceTest.java" timestamp="1531090819453">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="14" column="34" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/CellPhonePad.java" timestamp="1531203225758">
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testapp/src/main/java/com/test/Application.java" timestamp="1530893172197">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/amazon/GcdTest.java" timestamp="1531101435053">
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="12" column="54" />
+        <mark key="^" line="12" column="54" />
+        <mark key="." line="12" column="54" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/TreeNode.java" timestamp="1530997927204">
+        <mark key="[" line="2" column="23" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/soj/PrimeGenerator.java" timestamp="1531091412478">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="55" column="24" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/UniqueBinaryTreesTest.java" timestamp="1530996526463">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="41" />
+        <mark key="^" line="11" column="62" />
+        <mark key="." line="11" column="41" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/Triangle.java" timestamp="1531002962864">
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="48" />
+        <mark key="^" line="9" column="47" />
+        <mark key="." line="10" column="48" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/IPAddressTest.java" timestamp="1531202792476" />
+      <file name="G:/IdeaProjects/solutions/medium/build.gradle" timestamp="1531004537805">
+        <mark key="[" line="13" column="14" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/TreeHelper.java" timestamp="1530997843820">
+        <mark key="[" line="2" column="25" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/hard/MaxProfits.java" timestamp="1531016561307">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/CellPhonePadTest.java" timestamp="1531203098978">
+        <mark key="[" line="16" column="67" />
+        <mark key="]" line="16" column="89" />
+        <mark key="^" line="16" column="89" />
+        <mark key="." line="16" column="89" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/MaxProfitsTest.java" timestamp="1531010129307">
+        <mark key="'" line="18" column="44" />
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/amazon/Gcd.java" timestamp="1531101309938">
+        <mark key="[" line="2" column="18" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/InterleaveStringTest.java" timestamp="1531009989279">
+        <mark key="[" line="21" column="130" />
+        <mark key="]" line="22" column="15" />
+        <mark key="^" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+      </file>
+      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/soj/PrimeGeneratorTest.java" timestamp="1531091345392">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+      </file>
+      <file name="/fragment.java" timestamp="1531091184490">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="18" column="44" filename="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/MaxProfitsTest.java" />
+    </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gbGV0dGVyQ29tYmluYXRpb25zKFN0cmluZyBkaWdpdHMpIHsK</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>singletonList(&quot;&quot;);</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiZWFuTmFtZSk7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHByaW1lcy5hZGQoM0wpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGxvbmdlc3RJbmNyZWFzaW5nU3Vic2VxdWVuY2UubGVuZ3RoT2ZMSVMoaW5wdXQpLCBpcyhlcXVhbFRvKDIpKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy4qOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLnV0aWwuKjsK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGNsYXNzIE1haW4KICAgIHs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgYmVhbk5hbWUgOiBiZWFuTmFtZXMpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLnNvcnQoYmVhbk5hbWVzKTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGltZXIudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;GET&quot;</text>
+        <text>singletonList(&quot;&quot;);</text>
       </register>
     </registers>
     <search>
@@ -74,6 +174,24 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
