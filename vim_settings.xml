@@ -3,41 +3,62 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/testapp/src/main/java/com/test/BasicController.java" timestamp="1531243990663">
+        <mark key="[" line="11" column="7" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/testapp/build.gradle" timestamp="1530893919748">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="19" />
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testapp/src/main/java/com/test/Application.java" timestamp="1530893793541">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/testapp/src/main/java/com/test/Application.java" timestamp="1531243824561">
+        <mark key="[" line="4" column="65" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
+      </file>
+      <file name="/fragment.java" timestamp="1531244097800">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlkICdqYXZhJwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGx1Z2lucyB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHRhZzo6YWN0dWF0b3JbXQo=</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihiZWFuTmFtZSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgYmVhbk5hbWUgOiBiZWFuTmFtZXMpIHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLnNvcnQoYmVhbk5hbWVzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>System.out.println(&quot;Hello World!&quot;);</text>
+        <text>&quot;GET&quot;</text>
       </register>
     </registers>
     <search>
