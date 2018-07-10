@@ -3,10 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="G:/IdeaProjects/solutions/medium/src/main/java/com/leetcode/medium/UniqueBinaryTrees.java" timestamp="1530997958839">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="vim_settings.xml" timestamp="1531244262153">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1530997837856">
         <mark key="[" line="0" column="0" />
@@ -42,12 +40,6 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/testapp/src/main/java/com/test/Application.java" timestamp="1530893172197">
-        <mark key="[" line="3" column="43" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="1" />
-      </file>
       <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/amazon/GcdTest.java" timestamp="1531101435053">
         <mark key="[" line="12" column="54" />
         <mark key="]" line="12" column="54" />
@@ -63,6 +55,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="55" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/testapp/src/main/java/com/test/Application.java" timestamp="1530893172197">
+        <mark key="[" line="3" column="43" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+      </file>
       <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/UniqueBinaryTreesTest.java" timestamp="1530996526463">
         <mark key="[" line="11" column="40" />
         <mark key="]" line="11" column="41" />
@@ -75,7 +73,6 @@
         <mark key="^" line="9" column="47" />
         <mark key="." line="10" column="48" />
       </file>
-      <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/IPAddressTest.java" timestamp="1531202792476" />
       <file name="G:/IdeaProjects/solutions/medium/build.gradle" timestamp="1531004537805">
         <mark key="[" line="13" column="14" />
       </file>
@@ -116,49 +113,69 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/testapp/src/main/java/com/test/BasicController.java" timestamp="1531246461443">
+        <mark key="'" line="16" column="51" />
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="29" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="21" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testapp/build.gradle" timestamp="1531245198822">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="24" column="62" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1531091184490">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testapp/src/main/resources/application.yml" timestamp="1531246263571">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
     </filemarks>
     <jumps>
       <jump line="18" column="44" filename="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/hard/MaxProfitsTest.java" />
+      <jump line="15" column="51" filename="$USER_HOME$/IdeaProjects/testapp/src/main/java/com/test/BasicController.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gbGV0dGVyQ29tYmluYXRpb25zKFN0cmluZyBkaWdpdHMpIHsK</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL2hlbGxvIikKICAgIHB1YmxpYyBSZXNwb25zZUVudGl0eTxTdHJpbmc+IGhlbGxvV29ybGQoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBSZXNwb25zZUVudGl0eTw+KCJIZWxsbyBXb3JsZCEiLCBIdHRwU3RhdHVzLk9LKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNwcmluZ2ZyYW1ld29yay5oYXRlb2FzL3NwcmluZy1oYXRlb2FzCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>singletonList(&quot;&quot;);</text>
+        <text>, HttpStatus.OK)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW1lcy5hZGQoM0wpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGxvbmdlc3RJbmNyZWFzaW5nU3Vic2VxdWVuY2UubGVuZ3RoT2ZMSVMoaW5wdXQpLCBpcyhlcXVhbFRvKDIpKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy4qOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLnV0aWwuKjsK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGNsYXNzIE1haW4KICAgIHs=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHByaW1lcy5hZGQoM0wpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGxvbmdlc3RJbmNyZWFzaW5nU3Vic2VxdWVuY2UubGVuZ3RoT2ZMSVMoaW5wdXQpLCBpcyhlcXVhbFRvKDIpKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy4qOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLnV0aWwuKjsK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIGNsYXNzIE1haW4KICAgIHs=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odGltZXIudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>singletonList(&quot;&quot;);</text>
+        <text>, HttpStatus.OK)</text>
       </register>
     </registers>
     <search>
