@@ -22,11 +22,11 @@
         <mark key="." line="23" column="15" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/coursera/interview/src/main/java/com/coursera/Interview.java" timestamp="1532619728125">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="4" column="37" />
-        <mark key="^" line="4" column="36" />
-        <mark key="." line="4" column="37" />
+      <file name="$USER_HOME$/IdeaProjects/coursera/interview/src/main/java/com/coursera/Interview.java" timestamp="1532640128233">
+        <mark key="[" line="69" column="17" />
+        <mark key="]" line="69" column="17" />
+        <mark key="." line="69" column="17" />
+        <mark key="^" line="69" column="17" />
       </file>
       <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/TriangleTest.java" timestamp="1531001110302">
         <mark key="[" line="20" column="55" />
@@ -154,40 +154,40 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiB3b3JkczE2ID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGkgPCBsaW5lcy5zaXplKCkgLSAxKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLnNwcmluZ2ZyYW1ld29yay5oYXRlb2FzL3NwcmluZy1oYXRlb2FzCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKExpc3Q8U3RyaW5nPiBsaW5lOiBsaW5lcykgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWlsZGVyIHJlc3VsdCA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGxpbmUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaW1lcy5hZGQoM0wpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGxvbmdlc3RJbmNyZWFzaW5nU3Vic2VxdWVuY2UubGVuZ3RoT2ZMSVMoaW5wdXQpLCBpcyhlcXVhbFRvKDIpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy4qOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRMaW5lTGVuZ3RoID0gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBqYXZhLnV0aWwuKjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1cnJlbnRMaW5lID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
     </registers>
     <search>
