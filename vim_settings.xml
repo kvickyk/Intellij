@@ -22,11 +22,11 @@
         <mark key="." line="23" column="15" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/coursera/interview/src/main/java/com/coursera/Interview.java" timestamp="1532619586641">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/coursera/interview/src/main/java/com/coursera/Interview.java" timestamp="1532619728125">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="36" />
+        <mark key="." line="4" column="37" />
       </file>
       <file name="G:/IdeaProjects/solutions/medium/src/test/java/com/leetcode/medium/TriangleTest.java" timestamp="1531001110302">
         <mark key="[" line="20" column="55" />
@@ -160,7 +160,7 @@
         <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>u</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -187,7 +187,7 @@
         <text encoding="base64">ICAgIGltcG9ydCBqYXZhLnV0aWwuKjsK</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
